@@ -1,7 +1,7 @@
 # 🏦 FinBot — AI Banking Assistant
 
 An AI-powered customer support chatbot for 
-HDFC Bank, specialized in NEFT, RTGS, and 
+Bank's, specialized in NEFT, RTGS, and 
 SFMS payment queries.
 
 ## 🚀 Features
