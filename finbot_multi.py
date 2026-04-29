@@ -2,7 +2,7 @@
 FinBot — AI Banking Assistant
 Author: Charan Sai N
 Tech: Python, Groq API, LLaMA 3.3 70B
-Description: Multi-turn AI chatbot for HDFC Bank
+Description: Multi-turn AI chatbot for Bank
              NEFT/RTGS/SFMS customer support
 """
 
